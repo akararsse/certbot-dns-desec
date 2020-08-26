@@ -1,0 +1,3 @@
+[certbot.plugins]
+dns-desec = certbot_dns_desec._internal.dns_desec:Authenticator
+
