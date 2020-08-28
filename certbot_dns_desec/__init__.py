@@ -36,7 +36,8 @@ zones you need certificates for.
    :caption: Example credentials file using restricted API Token (recommended):
 
    # desec API token used by Certbot
-   dns_desec_api_token = 0123456789abcdef0123456789abcdef01234567
+   certbot_dns_desec:dns_desec_token="0123456789abcdef0123456789abcdef01234567"
+   certbot_dns_desec:dns_desec_setting_domain="karartest.dedyn.io" 
 
 
 ``--dns-desec-credentials`` command-line argument. Certbot records the path

@@ -106,7 +106,7 @@ setup(
     },
     entry_points={
         'certbot.plugins': [
-            'dns-desec = certbot_dns_desec._internal.dns_desec:Authenticator',
+            'dns-desec = certbot_dns_desec.dns_desec:Authenticator',
         ],
     },
     tests_require=["pytest"],
