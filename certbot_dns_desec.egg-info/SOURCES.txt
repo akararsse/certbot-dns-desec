@@ -12,10 +12,10 @@ certbot_dns_desec.egg-info/requires.txt
 certbot_dns_desec.egg-info/top_level.txt
 certbot_dns_desec/_internal/__init__.py
 certbot_dns_desec/_internal/dns_desec.py
+certbot_dns_desec/_internal/dns_desec_test.py
 docs/.gitignore
 docs/Makefile
 docs/api.rst
 docs/conf.py
 docs/index.rst
 docs/make.bat
-tests/dns_desec_test.py

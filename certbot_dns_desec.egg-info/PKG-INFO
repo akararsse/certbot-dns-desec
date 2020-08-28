@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: certbot-dns-desec
 Version: 1.7.0.dev0
 Summary: deSEC DNS Authenticator plugin for Certbot
-Home-page: https://github.com/certbot/certbot
+Home-page: https://github.com/akararsse/certbot-dns-desec
 Author: Certbot Project
 Author-email: akash.karar@securesystems.de
 License: Apache License 2.0

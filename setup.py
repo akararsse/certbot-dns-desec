@@ -71,7 +71,7 @@ setup(
     name='certbot-dns-desec',
     version=version,
     description="deSEC DNS Authenticator plugin for Certbot",
-    url='https://github.com/certbot/certbot',
+    url='https://github.com/akararsse/certbot-dns-desec',
     author="Certbot Project",
     author_email='akash.karar@securesystems.de',
     license='Apache License 2.0',
